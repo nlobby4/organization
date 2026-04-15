@@ -24,14 +24,10 @@
 <!-- ? ############################################### -->
 <!-- ? Description -->
 
-<p align="center">
-
 This repository is the canonical source for nlobby4 visual identity assets. It
 stores reusable logos, banners, and footer artwork in web-ready formats and
 project-level exports used by README files, social cards, and organization
 pages.
-
-</p>
 
 <!-- ? ############################################### -->
 <!-- ? URLs -->
