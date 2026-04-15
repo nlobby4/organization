@@ -1,0 +1,5 @@
+Tool: https://danmarshall.github.io/google-font-to-svg-path/
+Font:        Raleway
+Weight:      900
+Size:        100
+Line Height: 1.2
