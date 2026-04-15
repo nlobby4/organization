@@ -73,9 +73,9 @@ For example, you can use the following Markdown syntax to add references at the
 end of your file:
 
 ```markdown
-[logo]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 ```
 
 > [!IMPORTANT] This repository is using git LFS to store the assets,
@@ -97,9 +97,9 @@ end of your file:
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]: https://raw.githubusercontent.com/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 [founded]: https://img.shields.io/badge/founded:2024-black?logo=github
 [npm]: https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000
 [website]: https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
