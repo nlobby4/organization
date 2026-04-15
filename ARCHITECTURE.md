@@ -11,17 +11,17 @@ used by README files, social cards, and organization pages.
 
 ## Naming Conventions
 
-1. Use only lowercase letters, numbers and underscores.
+1. Use only lowercase letters, numbers and dashes.
 2. Don't use spaces in file names.
 3. Keep names stable after publication; add new files instead of renaming.
-4. Use lowercase snake style consistently within each folder.
+4. Use lowercase kebab style consistently within each folder.
 5. If the asset is seasonal provide the year as a prefix.
 6. If the asset was made by an outside contributor, provide the author as a prefix.
 
 Recommended example pattern for file names:
 
 ```text
-[<year>][_<author>]_<name>[_<variant>][_<size>].<ext>
+[<year>][-<author>][-<name>][-<variant>][-<size>].<ext>
 ```
 
 ## Documentation
