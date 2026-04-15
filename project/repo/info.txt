@@ -1,0 +1,11 @@
+Logos:
+- Aspect ratio: 1:1
+- Size: 200x200px
+Banners:
+- Aspect ratio: 2:1
+- Size: 400x200px
+- In cases where the banner cannot cleanly fit the aspect ratio,
+  enforce only the height requirement and allow the width to be flexible.
+Footers:
+- Aspect ratio: 1:1
+- Size: 80x80px
