@@ -77,7 +77,8 @@ end of your file:
 [footer]: https://media.githubusercontent.com/media//nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 ```
 
-> [!IMPORTANT] This repository is using git LFS to store the assets,
+> [!IMPORTANT]
+> This repository is using git LFS to store the assets,
 > make sure to run `git lfs install` if you intend to add or modify assets.
 
 <p align="right">[<a href="#readme-top">back to top</a>]</p>
