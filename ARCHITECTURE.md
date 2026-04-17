@@ -1,4 +1,11 @@
+<!-- ? ############################################# -->
+<!-- ? Architecture -->
+
 # Architecture
+
+This document describes the high-level architecture of the project.
+For a more detailed discussion on the design and implementation, see the
+[reference article][reference].
 
 This repository is the canonical source for nlobby4 visual identity assets.
 It stores reusable artworks in web-ready formats and project-level exports
@@ -28,3 +35,8 @@ Recommended example pattern for file names:
 
 Keep asset-generation notes close to the asset family (for example,
 `project/assets/logos/nlobby4/info.txt`).
+
+<!-- ? ############################################# -->
+<!-- ? References -->
+
+[reference]: https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html
