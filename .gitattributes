@@ -4,11 +4,6 @@
 # This file defines attributes for files in the repository,
 # such as line ending normalization and Git LFS settings.
 #
-# To ensure LFS is properly set up in the repository
-# run the following command:
-#
-# git lfs install
-#
 # For more information, see:
 # https://git-lfs.com/
 # https://git-scm.com/docs/gitattributes#_end_of_line_conversion
